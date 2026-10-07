@@ -1,11 +1,1 @@
-{
- "name":"Min trivsel – symptomdagbog",
- "short_name":"Min trivsel",
- "description":"Daglig registrering af trivsel, symptomer, søvn og mulige påvirkninger med lokale grafer og tendenser.",
- "start_url":"./index.html",
- "scope":"./",
- "display":"standalone",
- "background_color":"#f3f6f8",
- "theme_color":"#1f4e78",
- "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
-}
+{"name":"Min trivsel - symptomdagbog","short_name":"Min trivsel","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f3f6f8","theme_color":"#1f4e78","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
